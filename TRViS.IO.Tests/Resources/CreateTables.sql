@@ -26,7 +26,7 @@ CREATE TABLE "work" (
 CREATE TABLE "train_data" (
 	"id"	INTEGER NOT NULL,
 	"work_id"	INTEGER NOT NULL,
-	"train_number"	TEXT NOT NULL,
+	"train_number"	試9373M NOT NULL,
 	"max_speed"	TEXT,
 	"speed_type"	TEXT,
 	"ntc"	TEXT,
